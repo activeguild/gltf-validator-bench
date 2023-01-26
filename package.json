@@ -1,0 +1,19 @@
+{
+  "name": "gltf-validator-bench",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/three": "^0.148.1",
+    "benchmark": "^2.1.4",
+    "gltf-validator": "2.0.0-dev.3.9",
+    "three": "^0.148.0",
+    "three-stdlib": "^2.21.6"
+  }
+}
